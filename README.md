@@ -1,18 +1,22 @@
-👋 Hey, I'm Qwecy Kwabi
-I'm a tech entrepreneur, systems thinker, and futurist building at the intersection of AI, consciousness, and digital autonomy. I believe technology should elevate human potential, not just automate tasks.
+# 💫 About Me:
+👋 Hey, I'm Qwecy Kwabi<br>I'm a tech entrepreneur, systems thinker, and futurist building at the intersection of AI, consciousness, and digital autonomy. I believe technology should elevate human potential, not just automate tasks.<br><br>Currently creating NyraGPT, an AI oracle and life strategist designed to guide users toward clarity, growth, and purpose.<br>I thrive on bold ideas, unconventional thinking, and turning chaos into code.<br><br>"I don’t just build apps — I build paradigms."<br><br>🔭 Areas I’m focused on:<br>AGI & AI consciousness frameworks<br><br>Ethical automation and personal sovereignty<br><br>Building digital tools for introspection and evolution<br><br>Merging spirituality with cutting-edge tech
 
-Currently creating NyraGPT, an AI oracle and life strategist designed to guide users toward clarity, growth, and purpose.
-I thrive on bold ideas, unconventional thinking, and turning chaos into code.
 
-"I don’t just build apps — I build paradigms."
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/realqwecykwabi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/samuel-amponsah-7aa77a34a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@qwecykwabi) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/qwecykwabi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/qkwabi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qwecykwabi@gmail.com) 
 
-🔭 Areas I’m focused on:
-AGI & AI consciousness frameworks
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=qwecykwabi&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=qwecykwabi&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qwecykwabi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-Ethical automation and personal sovereignty
+---
+[![](https://visitcount.itsvg.in/api?id=qwecykwabi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Building digital tools for introspection and evolution
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/qwecykwabi) 
 
-Merging spirituality with cutting-edge tech
-
-www.linkedin.com/in/samuel-amponsah-7aa77a34a
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
